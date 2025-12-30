@@ -30,4 +30,8 @@ Automated customer support for startups, solo founders, and service-based busine
 ### Automated Email Reply Example
 ![Mail & Reply](screenshot/mail&reply.png)
 
+## 🎥 Demo Video
+Watch a 3-minute end-to-end walkthrough of the AI Email Automation workflow: 
+👉 https://www.loom.com/share/d18925813bbc479ead4571a9ee1f1fcc
+
 
