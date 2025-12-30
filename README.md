@@ -22,3 +22,12 @@ This automation uses an AI model to classify incoming emails and automatically r
 ### Use Case
 Automated customer support for startups, solo founders, and service-based businesses.
 
+## Workflow Overview
+
+### Email Classification & Auto Reply Flow
+![Workflow Overview](screenshot/workflow_overview.png)
+
+### Automated Email Reply Example
+![Mail & Reply](screenshot/mail&reply.png)
+
+
